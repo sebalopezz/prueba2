@@ -1,0 +1,3 @@
+
+Soy Sebastian Lopez
+Soy Frontend Developer, trabajo con JavaScript y uso el framework React.
