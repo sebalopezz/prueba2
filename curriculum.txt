@@ -1,2 +1,5 @@
 Sebastian Lopez
 21 años
+Backend developer
+PHP
+Laravel
